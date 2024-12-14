@@ -1,0 +1,1442 @@
+[
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/.NET.svg",
+    "text": ".NET"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/.NET-core.svg",
+    "text": ".NET core"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/AArch64.png",
+    "text": "AArch64"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Adobe-Commerce-%28Magneto%29.svg",
+    "text": "Adobe Commerce (Magneto)"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Adobe-Illustrator.svg",
+    "text": "Adobe Illustrator"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Adobe-Photoshop.svg",
+    "text": "Adobe Photoshop"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Adobe-Premiere-Pro.svg",
+    "text": "Adobe Premiere Pro"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Adobe-XD.svg",
+    "text": "Adobe XD"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/AdonisJS.svg",
+    "text": "AdonisJS"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/After-Effects.svg",
+    "text": "After Effects"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Akka.svg",
+    "text": "Akka"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Algolia.svg",
+    "text": "Algolia"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Alpine.js.png",
+    "text": "Alpine.js"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Anaconda.svg",
+    "text": "Anaconda"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Android.svg",
+    "text": "Android"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Android-Studio.png",
+    "text": "Android Studio"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Angular.svg",
+    "text": "Angular"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/AngularJS.svg",
+    "text": "AngularJS"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Ansible.png",
+    "text": "Ansible"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Ant-Design.svg",
+    "text": "Ant Design"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Apache.svg",
+    "text": "Apache"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg",
+    "text": "Apache Airflow"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Apache-Cassandra.png",
+    "text": "Apache Cassandra"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Apache-Groovy.png",
+    "text": "Apache Groovy"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Apache-Hadoop.svg",
+    "text": "Apache Hadoop"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Apache-Kafka.png",
+    "text": "Apache Kafka"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Apache-Maven.svg",
+    "text": "Apache Maven"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Apache-Spark.svg",
+    "text": "Apache Spark"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/APL.svg",
+    "text": "APL"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Appcelerator.svg",
+    "text": "Appcelerator"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Apple.png",
+    "text": "Apple"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Appwrite.svg",
+    "text": "Appwrite"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Arch-Linux.svg",
+    "text": "Arch Linux"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Arduino.svg",
+    "text": "Arduino"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Argo-CD.svg",
+    "text": "Argo CD"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Astro.png",
+    "text": "Astro"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Atom.png",
+    "text": "Atom"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Autodesk-Maya.svg",
+    "text": "Autodesk Maya"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Awk.png",
+    "text": "Awk"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/AWS.png",
+    "text": "AWS"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Azios.svg",
+    "text": "Azios"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Azure.svg",
+    "text": "Azure"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Azure-Devops.svg",
+    "text": "Azure Devops"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Azure-SQL-Database.svg",
+    "text": "Azure SQL Database"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Babel.svg",
+    "text": "Babel"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Backbone.js.svg",
+    "text": "Backbone.js"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Ballerina.svg",
+    "text": "Ballerina"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Bamboo.svg",
+    "text": "Bamboo"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Bash.png",
+    "text": "Bash"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Behance.svg",
+    "text": "Behance"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/BitBucket.svg",
+    "text": "BitBucket"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Blender.svg",
+    "text": "Blender"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Bootstrap.svg",
+    "text": "Bootstrap"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Bower.png",
+    "text": "Bower"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/BrowserStack.svg",
+    "text": "BrowserStack"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Bulma.svg",
+    "text": "Bulma"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Bun.svg",
+    "text": "Bun"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/C.svg",
+    "text": "C"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg",
+    "text": "C# (CSharp)"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg",
+    "text": "C++ (CPlusPlus)"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Cairo-Graphics.png",
+    "text": "Cairo Graphics"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/CakePHP.svg",
+    "text": "CakePHP"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Canva.svg",
+    "text": "Canva"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Capacitor.svg",
+    "text": "Capacitor"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/CentOS.svg",
+    "text": "CentOS"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Cloudflare.svg",
+    "text": "Cloudflare"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Cloudflare-Workers.svg",
+    "text": "Cloudflare Workers"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/CMake.svg",
+    "text": "CMake"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Codeac.svg",
+    "text": "Codeac"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Codecov.svg",
+    "text": "Codecov"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/CodeIgniter.svg",
+    "text": "CodeIgniter"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/CodePen.png",
+    "text": "CodePen"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/CoffeeScript.png",
+    "text": "CoffeeScript"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Composer.png",
+    "text": "Composer"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Confluence.svg",
+    "text": "Confluence"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Consul.svg",
+    "text": "Consul"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Contao.svg",
+    "text": "Contao"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Core-js.png",
+    "text": "Core-js"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Cosmos-BD.png",
+    "text": "Cosmos BD"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/CouchDB.svg",
+    "text": "CouchDB"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Crystal.png",
+    "text": "Crystal"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/CSS3.svg",
+    "text": "CSS3"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Cucumber.svg",
+    "text": "Cucumber"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Cypress.png",
+    "text": "Cypress"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/D3.js.svg",
+    "text": "D3.js"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Dart.svg",
+    "text": "Dart"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/DataGrip.svg",
+    "text": "DataGrip"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/DataSpell.svg",
+    "text": "DataSpell"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/DBeaver.svg",
+    "text": "DBeaver"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Debian.svg",
+    "text": "Debian"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Deno.png",
+    "text": "Deno"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Devicon.svg",
+    "text": "Devicon"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Digital-Ocean.svg",
+    "text": "Digital Ocean"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Discord.js.svg",
+    "text": "Discord.js"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Django.png",
+    "text": "Django"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Django-REST.png",
+    "text": "Django REST"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Docker.svg",
+    "text": "Docker"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Doctrine.svg",
+    "text": "Doctrine"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Dropwizard.svg",
+    "text": "Dropwizard"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Drupal.svg",
+    "text": "Drupal"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Eclipse-Ceylon.svg",
+    "text": "Eclipse Ceylon"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Eclipse-IDE.png",
+    "text": "Eclipse IDE"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Eclipse-Vert.x.svg",
+    "text": "Eclipse Vert.x"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Elastic-Beats.svg",
+    "text": "Elastic Beats"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Elastic-Search.png",
+    "text": "Elastic Search"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Electron.svg",
+    "text": "Electron"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Eleventy-%2811ty%29.png",
+    "text": "Eleventy (11ty)"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Elixir.svg",
+    "text": "Elixir"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Elm.svg",
+    "text": "Elm"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Embedded-C.png",
+    "text": "Embedded C"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Ember.js.svg",
+    "text": "Ember.js"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Envoy.svg",
+    "text": "Envoy"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Erlang.svg",
+    "text": "Erlang"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/ESLint.svg",
+    "text": "ESLint"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Express.png",
+    "text": "Express"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Facebook.svg",
+    "text": "Facebook"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/FastAPI.svg",
+    "text": "FastAPI"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Fastify.png",
+    "text": "Fastify"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Fauna.svg",
+    "text": "Fauna"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Feathers.png",
+    "text": "Feathers"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Fedora.svg",
+    "text": "Fedora"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Figma.svg",
+    "text": "Figma"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/FileZilla.svg",
+    "text": "FileZilla"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Firebase.svg",
+    "text": "Firebase"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Firefox.svg",
+    "text": "Firefox"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Flask.png",
+    "text": "Flask"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Flutter.svg",
+    "text": "Flutter"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Fortran.svg",
+    "text": "Fortran"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Foundation.svg",
+    "text": "Foundation"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/FSharp-%28F%23%29.svg",
+    "text": "FSharp (F#)"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Gatling.svg",
+    "text": "Gatling"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Gatsby.svg",
+    "text": "Gatsby"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Gazebo.png",
+    "text": "Gazebo"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/GCC.svg",
+    "text": "GCC"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Gentoo.svg",
+    "text": "Gentoo"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Ghost.png",
+    "text": "Ghost"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/GIMP.svg",
+    "text": "GIMP"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Git.svg",
+    "text": "Git"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/GitBook.svg",
+    "text": "GitBook"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/GitHub.png",
+    "text": "GitHub"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg",
+    "text": "GitHub Actions"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/GitHub-Codespaces.png",
+    "text": "GitHub Codespaces"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/GitLab.svg",
+    "text": "GitLab"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Gitpod.svg",
+    "text": "Gitpod"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Gitter.png",
+    "text": "Gitter"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/GNU-Emacs.png",
+    "text": "GNU Emacs"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Go.svg",
+    "text": "Go"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Godot-Engine.svg",
+    "text": "Godot Engine"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/GoLand.svg",
+    "text": "GoLand"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Google.svg",
+    "text": "Google"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Google-Cloud.svg",
+    "text": "Google Cloud"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Gradle.png",
+    "text": "Gradle"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Grafana.svg",
+    "text": "Grafana"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Grails.svg",
+    "text": "Grails"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/GraphQL.svg",
+    "text": "GraphQL"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Grunt.js.svg",
+    "text": "Grunt.js"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Gulp.js.svg",
+    "text": "Gulp.js"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Handlebars.png",
+    "text": "Handlebars"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Hardhat.svg",
+    "text": "Hardhat"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Harvester.png",
+    "text": "Harvester"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/HashiCorp-Vagrant.svg",
+    "text": "HashiCorp Vagrant"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/HashiCorp-Vault.svg",
+    "text": "HashiCorp Vault"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Haskell.svg",
+    "text": "Haskell"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Haxe.svg",
+    "text": "Haxe"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Helm.png",
+    "text": "Helm"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Heroku.svg",
+    "text": "Heroku"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Hibernate.svg",
+    "text": "Hibernate"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Homebrew.svg",
+    "text": "Homebrew"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/HTML5.svg",
+    "text": "HTML5"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Hugo.svg",
+    "text": "Hugo"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/IFTTT.png",
+    "text": "IFTTT"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/InfluxDB.png",
+    "text": "InfluxDB"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Inkscape-.png",
+    "text": "Inkscape"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Insomnia.svg",
+    "text": "Insomnia"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/IntelliJ-IDEA.svg",
+    "text": "IntelliJ IDEA"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Internet-Explorer-10-%28ie10%29.svg",
+    "text": "Internet Explorer 10 (ie10)"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Ionic.svg",
+    "text": "Ionic"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Jaeger-Tracing.svg",
+    "text": "Jaeger Tracing"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Jamstack.svg",
+    "text": "Jamstack"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Jasmine.svg",
+    "text": "Jasmine"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Java.svg",
+    "text": "Java"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/JavaScript.svg",
+    "text": "JavaScript"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Jeet.svg",
+    "text": "Jeet"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Jekyll.svg",
+    "text": "Jekyll"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Jenkins.svg",
+    "text": "Jenkins"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Jest.svg",
+    "text": "Jest"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/JetBrains.svg",
+    "text": "JetBrains"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Jira.svg",
+    "text": "Jira"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Jira-Align.svg",
+    "text": "Jira Align"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/jQuery.svg",
+    "text": "jQuery"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/JSON.png",
+    "text": "JSON"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Jule.png",
+    "text": "Jule"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Julia.svg",
+    "text": "Julia"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/JUnit.svg",
+    "text": "JUnit"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Jupyter.png",
+    "text": "Jupyter"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/K3OS.svg",
+    "text": "K3OS"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/K3s.svg",
+    "text": "K3s"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Kaggle.svg",
+    "text": "Kaggle"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Karate-Labs.png",
+    "text": "Karate Labs"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Karma.svg",
+    "text": "Karma"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Keras.svg",
+    "text": "Keras"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Kibana.svg",
+    "text": "Kibana"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Knex.js.svg",
+    "text": "Knex.js"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Knockout.svg",
+    "text": "Knockout"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Kotlin.svg",
+    "text": "Kotlin"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Krakenjs.svg",
+    "text": "Krakenjs"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Ktor.svg",
+    "text": "Ktor"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Kubernetes.svg",
+    "text": "Kubernetes"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/LabVIEW.svg",
+    "text": "LabVIEW"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Laravel.svg",
+    "text": "Laravel"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/LaTeX.png",
+    "text": "LaTeX"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Less.js.svg",
+    "text": "Less.js"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/LinkedIn.svg",
+    "text": "LinkedIn"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Linux.png",
+    "text": "Linux"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Liquibase.svg",
+    "text": "Liquibase"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Livewire.svg",
+    "text": "Livewire"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/LLVM.svg",
+    "text": "LLVM"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Logstash.svg",
+    "text": "Logstash"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Lua.png",
+    "text": "Lua"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Lumen.svg",
+    "text": "Lumen"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Markdown.png",
+    "text": "Markdown"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Material-UI.svg",
+    "text": "Material UI"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Materialize.svg",
+    "text": "Materialize"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/MATLAB.svg",
+    "text": "MATLAB"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Matplotlib.svg",
+    "text": "Matplotlib"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Meteor.js.svg",
+    "text": "Meteor.js"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Microsoft-SQL-Server.png",
+    "text": "Microsoft SQL Server"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Minitab.svg",
+    "text": "Minitab"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/MobX.svg",
+    "text": "MobX"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Mocha.svg",
+    "text": "Mocha"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/MODX.svg",
+    "text": "MODX"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Moleculer.svg",
+    "text": "Moleculer"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/MongoDB.svg",
+    "text": "MongoDB"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Mongoose.js.svg",
+    "text": "Mongoose.js"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Moodle.svg",
+    "text": "Moodle"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/MS-DOS.svg",
+    "text": "MS-DOS"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/MySQL.svg",
+    "text": "MySQL"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Nano.svg",
+    "text": "Nano"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Nerog.svg",
+    "text": "Nerog"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Nest.js.svg",
+    "text": "Nest.js"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/NetworkX.svg",
+    "text": "NetworkX"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/New4j.png",
+    "text": "New4j"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png",
+    "text": "Next.js"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/NGINX.svg",
+    "text": "NGINX"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/NHibernate.svg",
+    "text": "NHibernate"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Nim.png",
+    "text": "Nim"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Nimble.png",
+    "text": "Nimble"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/NixOS.svg",
+    "text": "NixOS"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Node.js.svg",
+    "text": "Node.js"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Nodemon.svg",
+    "text": "Nodemon"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/NPM.svg",
+    "text": "NPM"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/NuGet.svg",
+    "text": "NuGet"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/NumPy.svg",
+    "text": "NumPy"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Nuxt-JS.svg",
+    "text": "Nuxt JS"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/NW.js-%28node-webkit%29.svg",
+    "text": "NW.js (node-webkit)"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Objective-C.svg",
+    "text": "Objective-C"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/OCaml.svg",
+    "text": "OCaml"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Oh-my-zsh.png",
+    "text": "Oh my zsh"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Okta.svg",
+    "text": "Okta"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/OpenAL.svg",
+    "text": "OpenAL"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/OpenAPI.png",
+    "text": "OpenAPI"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/OpenCL.png",
+    "text": "OpenCL"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/OpenCV.svg",
+    "text": "OpenCV"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/OpenGL.svg",
+    "text": "OpenGL"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/OpenStack.svg",
+    "text": "OpenStack"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/openSUSE.svg",
+    "text": "openSUSE"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/OpenTelemetry.svg",
+    "text": "OpenTelemetry"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Opera.svg",
+    "text": "Opera"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Oracle.svg",
+    "text": "Oracle"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/p5-JS.svg",
+    "text": "p5 JS"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Packer.svg",
+    "text": "Packer"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png",
+    "text": "Pandas"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Perl.svg",
+    "text": "Perl"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/pfSense.png",
+    "text": "pfSense"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Phalcon.png",
+    "text": "Phalcon"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Phoenix-Framework.svg",
+    "text": "Phoenix Framework"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Photon-Engine-.svg",
+    "text": "Photon Engine"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/PHP.svg",
+    "text": "PHP"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/PhpStorm.svg",
+    "text": "PhpStorm"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Playwrite.svg",
+    "text": "Playwrite"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Ploty.svg",
+    "text": "Ploty"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Podman.svg",
+    "text": "Podman"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Polygon.svg",
+    "text": "Polygon"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Portainer.svg",
+    "text": "Portainer"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/PostCSS.svg",
+    "text": "PostCSS"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/PostgresSQL.svg",
+    "text": "PostgresSQL"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Postman.svg",
+    "text": "Postman"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Powershell.png",
+    "text": "Powershell"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Processing.png",
+    "text": "Processing"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Prometheus.svg",
+    "text": "Prometheus"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Protractor-Test.svg",
+    "text": "Protractor Test"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/PureScript.png",
+    "text": "PureScript"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/PuTTY.svg",
+    "text": "PuTTY"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/PyCharm.svg",
+    "text": "PyCharm"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/PyScript.svg",
+    "text": "PyScript"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/pytest.svg",
+    "text": "pytest"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Python.svg",
+    "text": "Python"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Python-Poetry.svg",
+    "text": "Python Poetry"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/PyTorch.svg",
+    "text": "PyTorch"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Qodana.svg",
+    "text": "Qodana"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Qt-Framework.svg",
+    "text": "Qt Framework"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Quarkus.png",
+    "text": "Quarkus"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Quasar.png",
+    "text": "Quasar"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Qwik.svg",
+    "text": "Qwik"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/R-.svg",
+    "text": "R"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/RabbitMQ.svg",
+    "text": "RabbitMQ"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Rancher.svg",
+    "text": "Rancher"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Raspberry-Pi.svg",
+    "text": "Raspberry Pi"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Reach.svg",
+    "text": "Reach"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/React.svg",
+    "text": "React"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/React-Bootstrap.svg",
+    "text": "React Bootstrap"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Read-the-Docs.svg",
+    "text": "Read the Docs"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Realm.svg",
+    "text": "Realm"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Red-Hat.svg",
+    "text": "Red Hat"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/RedCube%27s-epic-Compiler-Thingy-programming-%28ReCT%29.png",
+    "text": "RedCube's-epic-Compiler-Thingy programming (ReCT)"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Redis.svg",
+    "text": "Redis"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Redux.svg",
+    "text": "Redux"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Ren%27Py.svg",
+    "text": "Ren'Py"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Rider.svg",
+    "text": "Rider"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Robot-Operating-System-%28ROS%29.png",
+    "text": "Robot Operating System (ROS)"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/RocksDB.svg",
+    "text": "RocksDB"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Rollup.js.svg",
+    "text": "Rollup.js"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/RSpec.svg",
+    "text": "RSpec"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/RStudio.svg",
+    "text": "RStudio"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Ruby.svg",
+    "text": "Ruby"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Ruby-on-Rails.svg",
+    "text": "Ruby on Rails"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/RubyMine.svg",
+    "text": "RubyMine"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Rust.png",
+    "text": "Rust"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/uWSGI.png",
+    "text": "uWSGI"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/V8.svg",
+    "text": "V8"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Vala.svg",
+    "text": "Vala"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Vercel.png",
+    "text": "Vercel"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Veutify.svg",
+    "text": "Veutify"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Vim.svg",
+    "text": "Vim"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Visual-Studio.svg",
+    "text": "Visual Studio"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg",
+    "text": "Visual Studio Code (VS Code)"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Vite.svg",
+    "text": "Vite"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Vite.js.svg",
+    "text": "Vite.js"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/vSphere.svg",
+    "text": "vSphere"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Vue-Storefront.svg",
+    "text": "Vue Storefront"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Vue.js.svg",
+    "text": "Vue.js"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Vyper.png",
+    "text": "Vyper"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/WebAssembly.svg",
+    "text": "WebAssembly"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Webflow.svg",
+    "text": "Webflow"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Weblate.svg",
+    "text": "Weblate"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Webpack.svg",
+    "text": "Webpack"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/WebStorm.svg",
+    "text": "WebStorm"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Windows-11.svg",
+    "text": "Windows 11"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Windows-8.svg",
+    "text": "Windows 8"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/WooCommerce.svg",
+    "text": "WooCommerce"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/WordPress.png",
+    "text": "WordPress"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Xamarin.svg",
+    "text": "Xamarin"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Xcode.svg",
+    "text": "Xcode"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/XML.svg",
+    "text": "XML"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/YAML.png",
+    "text": "YAML"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Yarn.svg",
+    "text": "Yarn"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Yii-Framework.svg",
+    "text": "Yii Framework"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/png-shadow-512/Yuno-Host.png",
+    "text": "Yuno Host"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Zend-Framework.svg",
+    "text": "Zend Framework"
+  },
+  {
+    "imgSrc": "https://icon.icepanel.io/Technology/svg/Zig.svg",
+    "text": "Zig"
+  }
+]
