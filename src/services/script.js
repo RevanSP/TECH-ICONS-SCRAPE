@@ -10,7 +10,7 @@ async function scrapeData() {
         const scrollPage = async () => {
             await page.evaluate(async () => {
                 const distance = 100; 
-                const delay = 300;
+                const delay = 500;
 
                 let totalHeight = 0;
                 let scrollHeight = document.body.scrollHeight;

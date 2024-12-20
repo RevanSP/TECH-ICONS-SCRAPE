@@ -4,9 +4,15 @@ async function loadIcons() {
         const icons = await response.json();
         const container = document.getElementById('icons-container');
         const fallbackAlert = document.getElementById('fallback-alert');
+        const searchInput = document.getElementById('search-input');
+
+        function updatePlaceholder(iconsArray) {
+            const totalIcons = iconsArray.length;
+            searchInput.placeholder = `Search ... (${totalIcons} ICONS)`;
+        }
 
         function displayIcons(filteredIcons) {
-            container.innerHTML = ''; 
+            container.innerHTML = '';
             if (filteredIcons.length === 0) {
                 fallbackAlert.classList.remove('hidden');
             } else {
@@ -48,16 +54,17 @@ async function loadIcons() {
                     container.appendChild(iconElement);
                 });
             }
+            updatePlaceholder(filteredIcons);
         }
 
         displayIcons(icons);
 
-        const searchInput = document.getElementById('search-input');
         searchInput.addEventListener('input', () => {
             const searchQuery = searchInput.value.toLowerCase();
             const filteredIcons = icons.filter(icon => icon.text.toLowerCase().includes(searchQuery));
             displayIcons(filteredIcons);
         });
+
     } catch (error) {
         console.error('Error loading icons:', error);
         const fallbackAlert = document.getElementById('fallback-alert');
